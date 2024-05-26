@@ -12,10 +12,10 @@
 - Sharp IR sensor
 
 🔌 ** Wiring **
-  - Display: Reset pin to Arduino pin 4
-             SCL pin to A5
-             SDA pin to A4
-  - Sharp IR: OUT Pin to A0
+  - Display: ⮞ Reset pin to Arduino pin 4
+             ⮞ SCL pin to A5
+             ⮞ SDA pin to A4
+  - Sharp IR: ⮞ OUT Pin to A0
   - All GNDs to GND
   - ALL VIN/VCC to 5V
 
