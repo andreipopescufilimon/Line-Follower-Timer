@@ -11,7 +11,7 @@
 - 0.91" OLED Display
 - Sharp IR sensor
 
-  ** Wiring **
+🔌 ** Wiring **
   - Display: Reset pin to Arduino pin 4
              SCL pin to A5
              SDA pin to A4
